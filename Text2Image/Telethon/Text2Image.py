@@ -8,7 +8,7 @@ import asyncio
 import aiohttp
 from telethon import events
 
-from Mikobot import tbot as client # telethonn client
+from Mikobot import tbot as client # telethon client
 
 # <=======================================================================================================>
 
